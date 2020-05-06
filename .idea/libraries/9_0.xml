@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="9.0">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.33" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.33" recursive="false" />
+  </library>
+</component>
